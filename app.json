@@ -1,0 +1,12 @@
+{
+  "name": "PervasiveComputing",
+  "displayName": "PervasiveComputing",
+  "expo": {
+    "name": "PervasiveComputing",
+    "slug": "PervasiveComputing",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
